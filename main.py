@@ -1,5 +1,6 @@
 from src.services.chat.chat_processor import get_best_context
 from flask import Flask, request
+import os
 
 
 app = Flask(__name__)
