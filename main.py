@@ -1,5 +1,5 @@
-# import nltk
-# nltk.download('all')
+import nltk
+nltk.download('all')
 from src.services.chat.chat_processor import get_best_context
 from flask import Flask, request
 import os
