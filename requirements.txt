@@ -13,6 +13,7 @@ comtypes==1.1.10
 cx-Freeze==6.6
 cx-Logging==3.0
 Flask==1.1.2
+gunicorn==20.1.0
 httplib2==0.19.1
 humanize==0.5.1
 idna==2.10
